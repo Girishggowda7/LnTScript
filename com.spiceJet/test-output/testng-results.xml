@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-08T12:45:32 IST" name="Default suite" finished-at="2023-03-08T12:46:53 IST" duration-ms="80337">
+    <groups>
+    </groups>
+    <test started-at="2023-03-08T12:45:32 IST" name="Default test" finished-at="2023-03-08T12:46:53 IST" duration-ms="80337">
+      <class name="framework.Book_Flight_test">
+        <test-method signature="Book_flight(java.lang.String)[pri:0, instance:framework.Book_Flight_test@2df9b86]" started-at="2023-03-08T12:45:32 IST" name="Book_flight" data-provider="getData" finished-at="2023-03-08T12:45:50 IST" duration-ms="18081" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sheet1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Book_flight -->
+        <test-method signature="Book_flight(java.lang.String)[pri:0, instance:framework.Book_Flight_test@2df9b86]" started-at="2023-03-08T12:45:50 IST" name="Book_flight" data-provider="getData" finished-at="2023-03-08T12:46:12 IST" duration-ms="21603" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sheet2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Book_flight -->
+        <test-method signature="Book_flight(java.lang.String)[pri:0, instance:framework.Book_Flight_test@2df9b86]" started-at="2023-03-08T12:46:12 IST" name="Book_flight" data-provider="getData" finished-at="2023-03-08T12:46:34 IST" duration-ms="22026" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sheet3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Book_flight -->
+        <test-method signature="Book_flight(java.lang.String)[pri:0, instance:framework.Book_Flight_test@2df9b86]" started-at="2023-03-08T12:46:34 IST" name="Book_flight" data-provider="getData" finished-at="2023-03-08T12:46:53 IST" duration-ms="18581" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sheet4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Book_flight -->
+      </class> <!-- framework.Book_Flight_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
